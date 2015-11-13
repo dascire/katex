@@ -2,7 +2,7 @@ Package.describe({
   name: "dascire:katex",
   summary: "KaTeX 0.5.1 for Meteor",
   version: "1.1.1",
-  git: "https://github.com/stubailo/meteor-katex"
+  git: "https://github.com/dascire/katex"
 });
 
 Package.onUse(function(api) {
